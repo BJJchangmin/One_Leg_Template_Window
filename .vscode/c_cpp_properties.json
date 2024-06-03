@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "windows-gcc-x64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/myproject/mujoco/mujoco-2.2.1-windows-x86_64/myProject/slip_realization_kws/include",
+                "/myproject/mujoco/mujoco-2.2.1-windows-x86_64/include/GLFW",
+                "/myproject/mujoco/mujoco-2.2.1-windows-x86_64/include/mujoco",
+                "C:/myproject/mujoco/mujoco-2.2.1-windows-x86_64/include"
+            ],
+            "compilerPath": "C:/mingw64/bin/gcc.exe",
+            "cStandard": "${default}",
+            "cppStandard": "${default}",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerArgs": [
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
