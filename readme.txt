@@ -1,1 +1,1 @@
-trajectory, controller 등 함수 헤더파일 쪼갬
+우송이형 SLIP 논문, 작업하는중
